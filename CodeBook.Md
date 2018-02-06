@@ -28,14 +28,14 @@ The remaining columns refer to the different measurements
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.  
 
-## Variable List
-Subject
-Activity
-TimeBodyAccelerometer_Mean_x
-TimeBodyAccelerometer_Mean_y
-TimeBodyAccelerometer_Mean_z 
-TimeGravityAccelerometer_Mean_x
-TimeGravityAccelerometer_Mean_y  
+## Variable List  
+Subject  
+Activity  
+TimeBodyAccelerometer_Mean_x  
+TimeBodyAccelerometer_Mean_y  
+TimeBodyAccelerometer_Mean_z   
+TimeGravityAccelerometer_Mean_x  
+TimeGravityAccelerometer_Mean_y    
 TimeGravityAccelerometer_Mean_z   
 TimeBodyAccelerometerJerk_Mean_x   
 TimeBodyAccelerometerJerk_Mean_y 
