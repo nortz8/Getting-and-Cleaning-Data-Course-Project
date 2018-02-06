@@ -1,7 +1,7 @@
 # Codebook for Getting and Cleaning Data Course Project
 
 ## Data
-The data can be seen in TidyData.txt
+The data can be seen in TidyData.txt  
 It is a table that contains average measurements of different variables while 30 subjects (persons) are doing the following six activities.
  1. LAYING
  2. SITTING
