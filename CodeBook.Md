@@ -18,7 +18,15 @@ The remaining columns refer to the different measurements
 1. The variables are briefly described by the column names of the data.  
 2. The first half of all the columns describes the Mean / Average of the different variables, while the second half of all the columns refer to the Standard Deviation.   
 3. The first word of the column names / variables describes the type of measurment taken, whether it is Time or Frequency.  
-4. The remaining words of the column names describes the measurement being taken.
+4. The remaining words of the column names describes the measurement being taken based on different attributes.
+
+### Attribute Information:
+ For each record in the dataset it is provided: 
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
+- Triaxial Angular velocity from the gyroscope. 
+- A 561-feature vector with time and frequency domain variables. 
+- Its activity label. 
+- An identifier of the subject who carried out the experiment.  
 
 ## Variable List
 Subject
