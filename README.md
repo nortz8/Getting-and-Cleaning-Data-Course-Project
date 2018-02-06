@@ -18,11 +18,14 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 This repo contains the following files:
 
 README.md - short description of the project and file list
+
 tidy_data.txt - the cleaned data set
+
 CodeBook.md - the code book that summarizes the data used in the script.
+
 run_analysis.R - the R script used to create the tidy data set
