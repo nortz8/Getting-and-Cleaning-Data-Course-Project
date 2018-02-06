@@ -20,7 +20,7 @@ Good luck!
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-This repo contains the following files:
+# This repo contains the following files:
 
 README.md - short description of the project and file list  
 TidyData.txt - the cleaned data set  
