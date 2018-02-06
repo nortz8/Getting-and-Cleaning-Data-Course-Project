@@ -22,10 +22,7 @@ Good luck!
 
 This repo contains the following files:
 
-README.md - short description of the project and file list
-
-TidyData.txt - the cleaned data set
-
-CodeBook.md - the code book that summarizes the data used in the script
-
+README.md - short description of the project and file list  
+TidyData.txt - the cleaned data set  
+CodeBook.md - the code book that summarizes the data used in the script  
 run_analysis.R - the R script used to create the tidy data set
