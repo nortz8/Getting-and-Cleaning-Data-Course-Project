@@ -86,8 +86,9 @@ names(dfmeanstd)<-gsub("mean", "Mean", names(dfmeanstd))
 names(dfmeanstd)<-gsub("angle", "Angle", names(dfmeanstd))
 names(dfmeanstd)<-gsub("gravity", "Gravity", names(dfmeanstd))
 names(dfmeanstd)<-gsub("tBody", "TimeBody", names(dfmeanstd))
+names(dfmeanstd)<-gsub("Meanfreq", "MeanFrequency", names(dfmeanstd))
 
 # Part 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 tidy1 <-group_by(dfmeanstd, Subject, Activity)
 tidyData <- summarize_all(tidy1, funs(mean))
-write.table(tidyData, file = "TidyData.txt")
+write.table(tidyData, file = "TidyData.txt", row.names = FALSE)
