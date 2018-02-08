@@ -53,9 +53,9 @@ TimeBodyGyroscopeJerkMagnitude_Mean
 FrequencyBodyAccelerometer_Mean_x    
 FrequencyBodyAccelerometer_Mean_y     
 FrequencyBodyAccelerometer_Mean_z  
-FrequencyBodyAccelerometer_Meanfreq_x     
-FrequencyBodyAccelerometer_Meanfreq_y     
-FrequencyBodyAccelerometer_Meanfreq_z   
+FrequencyBodyAccelerometer_MeanFrequency_x     
+FrequencyBodyAccelerometer_MeanFrequency_y     
+FrequencyBodyAccelerometer_MeanFrequency_z   
 FrequencyBodyAccelerometerJerk_Mean_x    
 FrequencyBodyAccelerometerJerk_Mean_y    
 FrequencyBodyAccelerometerJerk_Mean_z   
